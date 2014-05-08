@@ -1,4 +1,4 @@
-luna
-====
+cs3216-blog
+==
 
-Static site blogging engine
+Blog is now hosted at [http://yangshun.im](http://yangshun.im)
